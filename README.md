@@ -7,7 +7,7 @@ This repository contains a structured series of AWS networking projects — from
 ## ✅ Completed Projects
 
 ✅ **[Project 1 – Build a Virtual Private Cloud](./Project-1-Virtual-Private-Cloud)**  
-📄 [View Documentation PDF](./Project-1-Virtual-Private-Cloud/VPC-Setup-Documentation.pdf)
+📄 [View Documentation PDF](./Project-1-Virtual-Private-Cloud/Documents/VPC-Setup-Documentation.pdf)
 
 ✅ **[Project 2 – VPC Traffic Flow and Security](./Project-2-VPC-Traffic-and-Security)**  
 📄 [View Documentation PDF](./Project-2-VPC-Traffic-and-Security/VPC-Traffic-Documentation.pdf)
