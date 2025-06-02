@@ -10,10 +10,10 @@ This repository contains a structured series of AWS networking projects — from
 📄 [View Documentation PDF](./Project-1-Virtual-Private-Cloud/Documents/VPC-Setup-Documentation.pdf)
 
 ✅ **[Project 2 – VPC Traffic Flow and Security](./Project-2-VPC-Traffic-and-Security)**  
-📄 [View Documentation PDF](./Project-2-VPC-Traffic-and-Security/VPC-Traffic-Documentation.pdf)
+📄 [View Documentation PDF](./Project-2-VPC-Traffic-and-Security/Documents/VPC-Traffic-Documentation.pdf)
 
 ✅ **[Project 3 – Creating a Private Subnet](./Project-3-Private-Subnet)**  
-📄 [View Documentation PDF](./Project-3-Private-Subnet/Private-Subnet-Guide.pdf)
+📄 [View Documentation PDF](./Project-3-Private-Subnet/Documents/Private-Subnet-Guide.pdf)
 
 ---
 
