@@ -22,7 +22,7 @@ This project focused on isolating resources in a **private subnet** within an Am
 ## 📄 Documentation
 
 Full setup steps, configurations, and CLI screenshots can be found here:  
-[📥 Private Subnet Documentation (PDF)](./Documents/Private-Subnet-Documentation.pdf)
+[📥 Private Subnet Documentation (PDF)](./Documents/Private-Subnet-Documentation1.pdf)
 
 ---
 
