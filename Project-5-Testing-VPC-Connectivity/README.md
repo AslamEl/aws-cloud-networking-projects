@@ -20,7 +20,6 @@ Below is the connectivity flow I tested – from my laptop → public EC2 (via I
 
 ![VPC Connectivity Testing](./Documents/Testing-VPC-Connectivity.png)
 
-> *(Placeholder – replace with your own diagram or CLI output)*
 
 ---
 
