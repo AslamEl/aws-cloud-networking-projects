@@ -21,7 +21,7 @@ Here’s how my custom VPC is structured — public instance in a public subnet 
 
 ![VPC with Public & Private Subnets](./Documents/launching-vpc-resources.png)
 
-> *(Placeholder — replace with your own diagram or CLI visual)*
+
 
 ---
 
