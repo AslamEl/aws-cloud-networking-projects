@@ -21,13 +21,25 @@ This repository contains a structured series of AWS networking projects — from
 - Set up route tables and ACLs to secure subnet traffic.  
 📄 [View Documentation PDF](./Project-3-Private-Subnet/Documents/Private-Subnet-Documentation1.pdf)
 
+✅ **[Project 4 – Launching VPC & EC2 Instances](./Project-4-Launching-VPC-Resources)**  
+- Launched public and private EC2 instances inside a custom VPC.  
+- Configured security groups for controlled internal access.  
+📄 [View Documentation PDF](./Project-4-Launching-VPC-Resources/Documents/launching-vpc-resources.pdf)
+
+✅ **[Project 5 – Testing VPC Connectivity](./Project-5-Testing-VPC-Connectivity)**  
+- Tested SSH, ping, and curl to validate VPC routing and security rules.  
+- Troubleshot missing inbound rules and ICMP blocks.  
+📄 [View Documentation PDF](./Project-5-Testing-VPC-Connectivity/Documents/VPC-Connectivity.pdf)
+
+✅ **[Project 6 – VPC Peering](./Project-6-VPC-Peering)**  
+- Connected two VPCs using a peering connection and updated route tables.  
+- Tested cross‑VPC communication with ping and Elastic IPs.  
+📄 [View Documentation PDF](./Project-6-VPC-Peering/Documents/VPC-Peering.pdf)
+
 ---
 
 ## 🔄 Upcoming Projects
 
-🔄 **Project 4 – Launching VPC Resources**  
-🔄 **Project 5 – Testing VPC Connectivity**  
-🔄 **Project 6 – VPC Peering**  
 🔄 **Project 7 – VPC Monitoring with Flow Logs**  
 🔄 **Project 8 – Access S3 from a VPC**  
 🔄 **Project 9 – VPC Endpoints**
