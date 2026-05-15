@@ -22,7 +22,7 @@ This project demonstrates how to monitor network traffic within an Amazon Virtua
 ---
 ## 📄 Documentation
 
-[📥 Project 7 – VPC-Monitoring-with-Flow-Logs (PDF)](./Documents/VPC-Monitoring-with-Flow-Logs.pdf) ---
+[📥 Project 7 – VPC-Monitoring-with-Flow-Logs (PDF)](./Documents/VPC-Monitoring-with-Flow-Logs.pdf)
 
 ## Prerequisites
 
