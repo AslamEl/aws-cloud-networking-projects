@@ -17,6 +17,8 @@ This project demonstrates how to monitor network traffic within an Amazon Virtua
 | IAM | Role + policy for Flow Logs → CloudWatch |
 | Analysis | CloudWatch Logs Insights queries |
 
+- Architecture Diagram
+
 ![VPC Full Architecture](./Documents/VPC-Monitoring-with-Flow-Logs.png)
 
 ---
